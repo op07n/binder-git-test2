@@ -14,7 +14,7 @@ dependencies:
   - google-pasta=0.1.8=py_0
   - grpcio=1.23.0=py37h3db2c7e_0
   - h5py=2.10.0=nompi_py37h422b98e_101
-  - hdf5=1.10.5=nompi_ha405e13_1104
+  - hdf5=1.10.5
   - icc_rt=2019.0.0=h0cc432a_1
   - icu=64.2=he025d50_1
   - intel-openmp=2019.4=245
@@ -32,8 +32,8 @@ dependencies:
   - libprotobuf=3.11.2=h1a1b453_0
   - libtiff=4.1.0=h21b02b4_2
   - libwebp=1.0.2=hfa6e2cd_4
-  - lz4-c=1.8.3=he025d50_1001
-  - m2w64-gcc-libgfortran=5.3.0=6
+  - lz4-c=1.8.3
+  - m2w64-gcc-libgfortran=5.3.0
   - m2w64-gcc-libs=5.3.0=7
   - m2w64-gcc-libs-core=5.3.0=7
   - m2w64-gmp=6.1.0=2
@@ -61,7 +61,7 @@ dependencies:
   - tensorflow-base=1.15.0=mkl_py37h190a33d_0
   - tensorflow-estimator=1.15.1=pyh2649769_0
   - termcolor=1.1.0=py_2
-  - vc=14.1=h0510ff6_4
+  - vc=14.1
   - vs2015_runtime=14.16.27012=hf0eaf9b_1
   - werkzeug=0.16.0=py_0
   - wheel=0.33.6=py37_0
