@@ -111,4 +111,5 @@ dependencies:
     - watchdog==0.9.0
     - zipp==0.6.0
     - nbserverproxy=0.8.8
+    - jupyter-server-proxy=1.2.0
 
