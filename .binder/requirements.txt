@@ -86,3 +86,6 @@ Werkzeug==0.16.1
 widgetsnbextension==3.5.1
 wrapt==1.11.2
 zipp==2.1.0
+streamlit
+jupyter-server-proxy 
+nbserverproxy
